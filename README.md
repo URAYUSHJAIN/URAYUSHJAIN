@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=URAYUSHJAIN&label=Profile%20views&color=0e75b6&style=flat" alt="URAYUSHJAIN" /> 
 </p>
 
+<h3 align="left">🌱 I’m currently learning JavaScript and React.js</h3>
+<h3 align="left">📫 How to reach me: urayushjain@gmail.com</h3>
+<h3 align="left">⚡ Fun fact: I explore my surroundings when not coding.</h3>
+
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/urayushjain/" target="blank">
@@ -54,10 +58,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/>
   </a> 
 </p>
-
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=URAYUSHJAIN&show_icons=true&locale=en&layout=compact" alt="URAYUSHJAIN" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=URAYUSHJAIN&show_icons=true&locale=en" alt="URAYUSHJAIN" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=URAYUSHJAIN&" alt="URAYUSHJAIN" /></p>
 
