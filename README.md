@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
-<h3 align="center">A 2nd-year undergrad from India, passionate about Web Development and Cyber Security</h3>
+<h3 align="center">A curious 2nd-year undergrad from India, diving deep into Web Development and always exploring the latest in tech innovation</h3>
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=URAYUSHJAIN&label=Profile%20views&color=0e75b6&style=flat" alt="URAYUSHJAIN" /> 
