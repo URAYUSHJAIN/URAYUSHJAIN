@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
-<h3 align="center">A curious 2nd-year undergrad from India, diving deep into Web Development and always exploring the latest in tech innovation</h3>
-
+<h3 align="center">2nd-year undergrad from India, exploring Web Development and tech with curiosity.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=URAYUSHJAIN&label=Profile%20views&color=0e75b6&style=flat" alt="URAYUSHJAIN" /> 
@@ -63,5 +62,3 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=URAYUSHJAIN&" alt="URAYUSHJAIN" /></p>
 
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=URAYUSHJAIN&theme=react-dark)
-
-[![An image of @URAYUSHJAIN's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/URAYUSHJAIN)](https://holopin.io/@URAYUSHJAIN)
