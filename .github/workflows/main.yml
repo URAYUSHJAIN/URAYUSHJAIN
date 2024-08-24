@@ -22,7 +22,7 @@ jobs:
       - run: git status
 
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
+        uses: github-actions-x/commit@v3.2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
