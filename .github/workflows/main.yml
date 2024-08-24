@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: Platane/snk@v2.0.1
+      - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: URAYUSHJAIN
@@ -22,7 +22,7 @@ jobs:
       - run: git status
 
       - name: Push changes
-        uses: github-actions-x/commit@v3
+        uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
