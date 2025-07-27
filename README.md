@@ -76,5 +76,13 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=URAYUSHJAIN&" alt="URAYUSHJAIN" /></p>
+---
+📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=URAYUSHJAIN&rank_icon=github&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urayushjain&layout=compact&theme=default)
+
+---
 
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=URAYUSHJAIN&theme=react-dark)
