@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
-<h3 align="center">2nd-year undergrad from India, exploring Web Development and tech with curiosity.</h3>
+<h3 align="center">3rd -year undergrad from India, exploring Web Development and tech with curiosity.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=URAYUSHJAIN&label=Profile%20views&color=0e75b6&style=flat" alt="URAYUSHJAIN" /> 
 </p>
 
-<h3 align="left">🌱 I’m currently learning JavaScript and React.js</h3>
+<h3 align="left">🌱 I’m currently learning MERN </h3>
 <h3 align="left">📫 How to reach me: urayushjain@gmail.com</h3>
 <h3 align="left">⚡ Fun fact: I explore my surroundings when not coding.</h3>
 
@@ -80,8 +80,6 @@
 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=URAYUSHJAIN&rank_icon=github&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urayushjain&layout=compact&theme=default)
 
 ---
 
