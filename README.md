@@ -24,22 +24,18 @@
 <table>
 <tr>
 <td width="50%">
-Description of Fusion TackWin project.
 
-**🌿 Plant Disease Detector**
-- Smart plant disease detection system
-- Built with JavaScript, HTML5, CSS3
-- Innovative UI/UX with responsive design
-- [View Project](https://github.com/URAYUSHJAIN/-Plant-Disease-Detector)
+
+**🌿GenShakti**
+- GenShakti is an AI-driven tool for smart renewable energy planning, carbon modeling, and sustainable living insights.
+- [View Project](https://github.com/URAYUSHJAIN/GenShakti)
 
 </td>
 <td width="50%">
 
-**🛒 Amazon Clone**
-- Full-stack e-commerce application
-- React.js, Node.js, MongoDB
-- Features: Cart, Payment, User Auth
-- [View Project](https://github.com/URAYUSHJAIN/FSD-class-amazonclone)
+**⛓️‍💥Shayoga**
+- Decentralized Crowdfunding Platform for Social Impact and Transparency
+- [View Project](https://github.com/URAYUSHJAIN/Shayoga)
 
 </td>
 </tr>
@@ -48,29 +44,18 @@ Description of Fusion TackWin project.
 
 **🎨 Personal Portfolio**
 - Modern portfolio website
-- Responsive design with smooth animations
-- Built with latest web technologies
 - [View Project](https://urayushjain.netlify.app/)
 
 </td>
 <td width="50%">
 
-**📚 Full Stack Development Collection**
-- Semester-long FSD projects
-- Various frameworks and libraries
-- Academic and practical implementations
-- [View Project](https://github.com/URAYUSHJAIN/FSD-CLASS-SEM5)
+**📚 Fusion2048**
+-  fun and addictive puzzle game where players combine numbered tiles to reach 2048, modern design.
+- [View Project](https://github.com/URAYUSHJAIN/Fusion)
 
 </td>
 </tr>
 </table>
-
-### 🔧 Additional Project
-**[Your 5th Project Name]**
-- Description of your 5th innovative project
-- Key technologies and problem-solving approach
-- Notable achievements and impact
-- [Link to project]
 
 ---
 
