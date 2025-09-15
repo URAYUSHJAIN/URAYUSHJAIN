@@ -137,9 +137,7 @@
   <a href="mailto:urayushjain@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://urayushjain.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
+  
 </p>
 
 ---
@@ -169,13 +167,7 @@
 - 💡 **Problem Solver** - Passionate about creating innovative solutions
 - 🌟 **Open Source Enthusiast** - Contributing to the developer community
 
----
 
-<div align="center">
-  <h3>Show some ❤️ by starring some of the repositories!</h3>
-  
-  ![Snake animation](https://github.com/URAYUSHJAIN/URAYUSHJAIN/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 ---
 
