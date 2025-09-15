@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
-<h3 align="center">3rd-year Computer Science Student | Full Stack Developer | Patent Holder | Innovation Enthusiast</h3>
+<h3 align="center">Full-Stack Developer • 5× Patent Holder • CS’27</h3>
 <h4 align="center">Passionate about Web Development, Problem Solving, and Building Innovative Solutions 🚀</h4>
 <div align="center">
 <img src="./ayush (1).ico" alt="Ayush Jain" width="200px"/></div>
@@ -17,7 +17,7 @@
 - 💬 Ask me about **Web Development, React, Node.js, JavaScript, Problem Solving**
 - 📫 How to reach me: **urayushjain@gmail.com**
 - 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/1blI7Nqdd05OyUxBKjWBchmucsfwygeDp/view?usp=sharing)**
-- ⚡ Fun fact: **I explore my surroundings when not coding and hold 5 published patents in innovative technologies!**
+- ⚡ Fun fact: **I overthink everything… and that somehow turned into 5 tech patents.!**
 
 ---
 
@@ -86,7 +86,7 @@
 | **GENSHAKTI: AI-DRIVEN SMART ZONE SELECTION FOR RENEWABLE ENERGY** | 202511025288 | 14/2025 | 04/04/2025 |
 | **DECENTRALIZED DOCUMENT CONTROL SYSTEM** | 202511052005 | 24/2025 | 13/06/2025 |
 | **BLOCKCHAIN-DRIVEN PHARMACEUTICAL SUPPLY CHAIN OPTIMIZER** | 202511050913 | 24/2025 | 13/06/2025 |
-| **AROGYAPLUS: SMART MEDICAL INSIGHTS NAVIGATOR** | 202511053921 | 25/2025 | 20/06/2025 |
+| **AROGYAPLUS: SMART MEDICAL INSIGHTS NAVIGATOR** | 202511053923 | 25/2025 | 20/06/2025 |
 
 </div>
 
@@ -94,10 +94,10 @@
 
 ## ✏️ Writing & Knowledge Sharing
 
-- 📝 Occasionally share insights and learnings from my development journey
-- 💡 Document innovative solutions and problem-solving approaches
-- 🤝 Contribute to open-source projects and help fellow developers
-
+- 📝 **Published Medium Article**: [How Anyone Can Protect Their Big Idea: A Student Guide to Filing Patents](https://medium.com/@urayushjain/how-anyone-can-protect-their-big-idea-a-student-guide-to-filing-patents-d9f6e6448571)
+  - Comprehensive guide for students on patent filing process
+  - Practical insights from my experience of filing 5 patents
+  - Step-by-step approach to protecting intellectual property
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -114,12 +114,13 @@
 
 ### 🗄️ Databases & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,postman" /
 </p>
 
 ### ⚙️ Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker,windows,npm" />
+  
 </p>
 
 ---
