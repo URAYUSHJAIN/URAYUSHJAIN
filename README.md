@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
 <h3 align="center">3rd-year Computer Science Student | Full Stack Developer | Patent Holder | Innovation Enthusiast</h3>
 <h4 align="center">Passionate about Web Development, Problem Solving, and Building Innovative Solutions 🚀</h4>
-
+<div align="center">
+  <img src="./avatar.png" alt="Ayush Jain" width="200px"/>
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=URAYUSHJAIN&label=Profile%20views&color=0e75b6&style=flat" alt="URAYUSHJAIN" />
 </p>
