@@ -2,8 +2,7 @@
 <h3 align="center">3rd-year Computer Science Student | Full Stack Developer | Patent Holder | Innovation Enthusiast</h3>
 <h4 align="center">Passionate about Web Development, Problem Solving, and Building Innovative Solutions 🚀</h4>
 <div align="center">
-  <img src="./avatar.png" alt="Ayush Jain" width="200px"/>
-</div>
+<img src="./ayush (1).ico" alt="Ayush Jain" width="200px"/></div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=URAYUSHJAIN&label=Profile%20views&color=0e75b6&style=flat" alt="URAYUSHJAIN" />
 </p>
@@ -81,13 +80,13 @@
 
 <div align="center">
 
-| Patent Title | Application No. | Publication No. | Date | Field |
-|--------------|-----------------|-----------------|------|-------|
-| **GENSHAKTI: AI-DRIVEN SMART ENERGY SAVER** | 202511025277 | 14/2025 | 04/04/2025 | Smart Energy |
-| **GENSHAKTI: AI-DRIVEN SMART ZONE SELECTION FOR RENEWABLE ENERGY** | 202511025288 | 14/2025 | 04/04/2025 | Renewable Energy |
-| **DECENTRALIZED DOCUMENT CONTROL SYSTEM** | 202511052005 | 24/2025 | 13/06/2025 | Blockchain |
-| **BLOCKCHAIN-DRIVEN PHARMACEUTICAL SUPPLY CHAIN OPTIMIZER** | 202511050913 | 24/2025 | 13/06/2025 | Supply Chain |
-| **AROGYAPLUS: SMART MEDICAL INSIGHTS NAVIGATOR** | 202511053921 | 25/2025 | 20/06/2025 | Healthcare Tech |
+| Patent Title | Application No. | Publication No. | Date |
+|--------------|-----------------|-----------------|------|
+| **GENSHAKTI: AI-DRIVEN SMART ENERGY SAVER** | 202511025277 | 14/2025 | 04/04/2025 |
+| **GENSHAKTI: AI-DRIVEN SMART ZONE SELECTION FOR RENEWABLE ENERGY** | 202511025288 | 14/2025 | 04/04/2025 |
+| **DECENTRALIZED DOCUMENT CONTROL SYSTEM** | 202511052005 | 24/2025 | 13/06/2025 |
+| **BLOCKCHAIN-DRIVEN PHARMACEUTICAL SUPPLY CHAIN OPTIMIZER** | 202511050913 | 24/2025 | 13/06/2025 |
+| **AROGYAPLUS: SMART MEDICAL INSIGHTS NAVIGATOR** | 202511053921 | 25/2025 | 20/06/2025 |
 
 </div>
 
