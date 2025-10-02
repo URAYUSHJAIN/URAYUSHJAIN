@@ -150,6 +150,8 @@
 - 💡 **Problem Solver** - Passionate about creating innovative solutions
 - 🌟 **Open Source Enthusiast** - Contributing to the developer community
 
+  [![An image of @urayushjain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/urayushjain)](https://holopin.io/@urayushjain)
+
 
 
 ---
