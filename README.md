@@ -64,7 +64,6 @@
 | Project Name | Details | GitHub & Live Link |
 | :--- | :--- | :--- |
 | **Aurevo** | An elegant and timeless e-commerce fashion website. | [GitHub Code](https://github.com/URAYUSHJAIN/Aurevo) \| [Live Demo](https://aurevo-topaz.vercel.app/) |
-
 | **Ecofund** | A decentralized platform for environmental project funding using blockchain technology. | [GitHub Code](https://github.com/URAYUSHJAIN/Ecofund) \| [Live Demo](https://eco-fund.netlify.app/) |
 | **ResQHub** | A web-based hub providing crucial information for disaster response and management. | [GitHub Code](https://github.com/URAYUSHJAIN/ResQHub) \| [Live Demo](https://urayushjain.github.io/ResQHub/) |
 | **Listomo - To-Do List** | A web-based platform to help users efficiently manage, organize, and track daily tasks. | [GitHub Code](https://github.com/URAYUSHJAIN/Listomo) \| [Live Demo](https://listomo.netlify.app/) |
