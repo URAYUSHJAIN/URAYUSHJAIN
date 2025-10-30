@@ -88,14 +88,13 @@
 </div>
 
 ---
+## ✏️ Writing & Knowledge Sharing  
 
-## ✏️ Writing & Knowledge Sharing
+📝 **Published Medium Articles**  
 
-- 📝 **Published Medium Article**: [How Anyone Can Protect Their Big Idea: A Student Guide to Filing Patents](https://medium.com/@urayushjain/how-anyone-can-protect-their-big-idea-a-student-guide-to-filing-patents-d9f6e6448571)
-  - Comprehensive guide for students on patent filing process
-  - Practical insights from my experience of filing 5 patents
-  - Step-by-step approach to protecting intellectual property
----
+- [**How Anyone Can Protect Their Big Idea: A Student’s Guide to Filing Patents**](https://medium.com/@urayushjain/how-anyone-can-protect-their-big-idea-a-student-guide-to-filing-patents-d9f6e6448571)  
+- [**From Zero to Contributor: A Student’s Guide to Conquering Hacktoberfest**](https://medium.com/@urayushjain/from-zero-to-contributor-a-students-guide-to-conquering-hacktoberfest-c566a5d8fbe4)
+
 
 ## 🛠️ Tech Stack & Tools
 
