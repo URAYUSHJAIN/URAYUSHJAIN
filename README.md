@@ -63,8 +63,8 @@
 
 | Project Name | Details | GitHub & Live Link |
 | :--- | :--- | :--- |
-| **Personal Portfolio** | An elegant and timeless e-commerce fashion website. | [GitHub Code](https://github.com/URAYUSHJAIN/portfolio) \| [Live Demo](urayushjain.netlify.app/) |
-| **Fusion2048** | Fusion2048 is a fun and addictive puzzle game where players combine numbered tiles to reach 2048, offering smooth gameplay and modern design. | [GitHub Code](https://github.com/URAYUSHJAIN/Fusion) \| [Live Demo](fusion2048.netlify.app/) |
+| **Personal Portfolio** | An elegant and timeless e-commerce fashion website. | [GitHub Code](https://github.com/URAYUSHJAIN/portfolio) \|[Live Demo](https://urayushjain.netlify.app/) |
+| **Fusion2048** | Fusion2048 is a fun and addictive puzzle game where players combine numbered tiles to reach 2048, offering smooth gameplay and modern design. | [GitHub Code](https://github.com/URAYUSHJAIN/Fusion) \| [Live Demo](https://fusion2048.netlify.app/) |
 | **Aurevo** | An elegant and timeless e-commerce fashion website. | [GitHub Code](https://github.com/URAYUSHJAIN/Aurevo) \| [Live Demo](https://aurevo-topaz.vercel.app/) |
 | **Ecofund** | A decentralized platform for environmental project funding using blockchain technology. | [GitHub Code](https://github.com/URAYUSHJAIN/Ecofund) \| [Live Demo](https://eco-fund.netlify.app/) |
 | **ResQHub** | A web-based hub providing crucial information for disaster response and management. | [GitHub Code](https://github.com/URAYUSHJAIN/ResQHub) \| [Live Demo](https://urayushjain.github.io/ResQHub/) |
