@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working on **MERN Stack Projects** and **Innovative Web Applications**
 - 🌱 I'm currently learning **Advanced React.js, Node.js, and Modern Web Technologies**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://urayushjain.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://urayushjain.tech/)
 - 💬 Ask me about **Web Development, React, Node.js, JavaScript, Problem Solving**
 - 📫 How to reach me: **urayushjain@gmail.com**
 - 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/1uIGeJfrX3DgFwwKAxigGAB3sg-4XhLoN/view?usp=sharing)**
