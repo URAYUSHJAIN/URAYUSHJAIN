@@ -160,7 +160,7 @@
 ## 🏅 Achievements & Highlights
 
 - 🎓 **Computer Science Student** - Currently pursuing B.Tech
-- 🔬 **5 Published Patents** - Innovations in Smart Energy, Blockchain, and Healthcare
+- 🔬 **7 Published Patents** - Innovations in Smart Energy, Blockchain, and Healthcare
 - 🏆 **Full Stack Developer** - MERN Stack Specialist
 - 💡 **Problem Solver** - Passionate about creating innovative solutions
 - 🌟 **Open Source Enthusiast** - Contributing to the developer community
