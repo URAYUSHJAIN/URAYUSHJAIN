@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
-<h3 align="center">Full-Stack Developer • 7× Patent Holder • CS’27</h3>
+<h3 align="center">Full-Stack Developer • 8× Patent Holder • CS’27</h3>
 <h4 align="center">Passionate about Web Development, Problem Solving, and Building Innovative Solutions 🚀</h4>
 <div align="center">
 <img src="./ayush (1).ico" alt="Ayush Jain" width="200px"/></div>
@@ -160,7 +160,7 @@
 ## 🏅 Achievements & Highlights
 
 - 🎓 **Computer Science Student** - Currently pursuing B.Tech
-- 🔬 **7 Published Patents** - Innovations in Smart Energy, Blockchain, and Healthcare
+- 🔬 **8 Published Patents** - Innovations in Smart Energy, Blockchain, and Healthcare
 - 🏆 **Full Stack Developer** - MERN Stack Specialist
 - 💡 **Problem Solver** - Passionate about creating innovative solutions
 - 🌟 **Open Source Enthusiast** - Contributing to the developer community
