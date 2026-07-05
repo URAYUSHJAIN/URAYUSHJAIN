@@ -16,7 +16,7 @@
 - 💬 Ask me about **Web Development, React, Node.js, JavaScript, Problem Solving**
 - 📫 How to reach me: **urayushjain@gmail.com**
 - 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/1uIGeJfrX3DgFwwKAxigGAB3sg-4XhLoN/view?usp=sharing)**
-- ⚡ Fun fact: *I overthink everything… and that somehow turned into 5 tech patents.!*
+- ⚡ Fun fact: *I overthink everything… and that somehow turned into 8 tech patents.!*
 
 ---
 
