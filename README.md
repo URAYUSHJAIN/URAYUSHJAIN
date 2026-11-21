@@ -4,10 +4,6 @@
 <div align="center">
 <img src="./ayush (1).ico" alt="Ayush Jain, full-stack developer" width="200px"/></div>
 <p align="center">
-  <b>Ayush Jain</b> is a full-stack developer, a B.Tech Computer Science student (Class of 2027), and a named inventor on 8 published Indian patent applications in AI, blockchain, healthcare, EdTech, and clean energy.<br/>
-  Portfolio: <a href="https://urayushjain.tech/">urayushjain.tech</a>
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=URAYUSHJAIN&label=Profile%20views&color=0e75b6&style=flat" alt="URAYUSHJAIN" />
 </p>
 
@@ -267,14 +263,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=URAYUSHJAIN&theme=tokyo-night" alt="URAYUSHJAIN's GitHub Activity Graph"/>
 </div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/URAYUSHJAIN/URAYUSHJAIN/output/github-contribution-grid-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/URAYUSHJAIN/URAYUSHJAIN/output/github-contribution-grid-snake.svg" alt="Snake eating Ayush Jain's GitHub contribution graph"/>
-  </picture>
-</div>
-
 ---
 
 ## 🏅 Achievements & Highlights
